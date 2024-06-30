@@ -1,16 +1,21 @@
-## Hi there 👋
+# Meu Perfil
 
-<!--
-**EduardoARO/EduardoARO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="animation: slide-in 1s forwards; background-color: #272822; color: #f8f8f2; padding: 20px; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
 
-Here are some ideas to get you started:
+  <h1 style="color: #66d9ef;">Seu Nome</h1>
+  <p>Informações do seu perfil</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<style>
+@keyframes slide-in {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+</style>
