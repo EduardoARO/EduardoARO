@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Codespace&size=40&duration=3000&pause=500&color=A732FF&background=351C85&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+my+name+is+Eduardo+Augusto+%F0%9F%91%BE" alt="Typing SVG" /></a>
 
--------------
-Web Developer
+I'm a Web Developer
 -------------
 
 I've been studying IT for 4 years, I graduated as a web development technician in 2022 and entered the IT management faculty in 2023, where I'm at the 3rd semester.
