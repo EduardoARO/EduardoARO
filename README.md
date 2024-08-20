@@ -3,7 +3,7 @@
 I'm a Web Developer
 -------------
 
-I've been studying IT for 4 years, I graduated as a web development technician in 2022 and entered the IT management faculty in 2023, where I'm at the 3rd semester.
+I've been studying IT for 4 years, I graduated as a web development technician in 2022 and entered the IT management college in 2023, where I'm at the 3rd semester.
 
 * 🌍  I'm based in Guaratinguetá, SP, BR
 * ✉️  You can contact me at [eduardo.aro.dev@gmail.com](mailto:eduardo.aro.dev@gmail.com)
