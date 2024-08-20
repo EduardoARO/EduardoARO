@@ -7,7 +7,7 @@ I've been studying IT for 4 years, I graduated as a web development technician i
 
 * 🌍  I'm based in Guaratinguetá, SP, BR
 * ✉️  You can contact me at [eduardo.aro.dev@gmail.com](mailto:eduardo.aro.dev@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React/Vite, PowerBI & Azure
 * ⚡  Here I am, here I remain.
 
 <a href="https://www.github.com/eduardoARO" target="_blank" rel="noreferrer"><img
